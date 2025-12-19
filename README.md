@@ -3,4 +3,4 @@ Plot for Terrestial Wireless Sensor Networks (2 Dimmensional)
 
 
 Plot for Underwater Wireless Sensor Network (3 Dimmensional)
-<img width="600" height="600" alt="WSA-UWSN-Scatter-Plot" src="https://github.com/user-attachments/assets/77aac65a-92ba-45cd-979c-731d8d9a7344" />
+<img width="800" height="800" alt="WSA-UWSN-Scatter-Plot" src="https://github.com/user-attachments/assets/77aac65a-92ba-45cd-979c-731d8d9a7344" />
