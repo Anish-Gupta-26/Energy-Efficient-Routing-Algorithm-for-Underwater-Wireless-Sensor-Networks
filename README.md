@@ -14,5 +14,8 @@ Plot for Terrestial Wireless Sensor Networks (2 Dimmensional)
 Plot for Underwater Wireless Sensor Network (3 Dimmensional)
 <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/9db23197-1c9a-4d03-90e0-d1c8388cb263" />
 
-Convergence plot
-<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/040f80f9-3772-4baf-9c26-a9c80bbfb9f1" />
+Average Residual Energy
+<img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/2626cd61-24f1-4596-a3f4-350be7beb3a3" />
+
+Standard Deviation in Residual Energy
+<img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/eb8c71e7-4c59-4aa2-ac36-d635e41b5517" />
