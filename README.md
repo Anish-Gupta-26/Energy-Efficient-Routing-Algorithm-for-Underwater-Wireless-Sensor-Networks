@@ -7,15 +7,15 @@ The work implements a Whale Swarm Algorithm–based routing approach that select
 The model was developed using Python programming language on Jupyter Notebook in Google Colab environment.
 For detailed information, please check the powerpoint presentation attached.
 
-Plot for Terrestial Wireless Sensor Networks (2 Dimmensional)
+Plot for Terrestial Wireless Sensor Networks (2 Dimmensional) 200 m x 200 m, 50 nodes
 <img width="600" height="600" alt="Scatter-Diagram" src="https://github.com/user-attachments/assets/26ed643d-1a7e-4fa9-8348-860cc1ee5048" />
 
 
-Plot for Underwater Wireless Sensor Network (3 Dimmensional)
+Plot for Underwater Wireless Sensor Network (3 Dimmensional) 200 m x 200 m x 200 m, 100 nodes
 <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/9db23197-1c9a-4d03-90e0-d1c8388cb263" />
 
-Average Residual Energy
+Plot for Average Residual Energy
 <img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/2626cd61-24f1-4596-a3f4-350be7beb3a3" />
 
-Standard Deviation in Residual Energy
+Plot for Standard Deviation in Residual Energy
 <img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/eb8c71e7-4c59-4aa2-ac36-d635e41b5517" />
