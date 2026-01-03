@@ -14,3 +14,5 @@ Plot for Terrestial Wireless Sensor Networks (2 Dimmensional)
 Plot for Underwater Wireless Sensor Network (3 Dimmensional)
 <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/9db23197-1c9a-4d03-90e0-d1c8388cb263" />
 
+Convergence plot
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/040f80f9-3772-4baf-9c26-a9c80bbfb9f1" />
