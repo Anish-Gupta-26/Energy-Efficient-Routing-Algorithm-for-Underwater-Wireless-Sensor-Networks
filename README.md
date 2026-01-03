@@ -1,5 +1,7 @@
 This repository contains my research internship work carried out at IIT (BHU) Varanasi under the guidance of Dr. Prasenjit Chanak. The project focuses on designing an energy-efficient routing algorithm for Underwater Wireless Sensor Networks (UWSNs), where constrained energy resources and acoustic communication make routing optimization essential.
 
+This repository represents the final implementation of my research. The initial codebase was developed in a private institutional environment in the year 2024 and migrated here for public documentation later.
+
 The work implements a Whale Swarm Algorithm–based routing approach that selects optimal paths by considering residual energy, path length, and overall energy consumption. The algorithm was developed and evaluated using Python-based simulations, demonstrating improved network lifetime and balanced energy usage compared to existing routing methods.
 
 
